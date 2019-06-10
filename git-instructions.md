@@ -189,3 +189,8 @@ To https://github.com/pbarter/Test-merge.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 Patricks-MacBook-Pro:test pb$ 
+
+
+Additiona notes for Terminal use for Github:
+* git checkout -b "branch name" - Make a new branch or switch to it
+
